@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/icon.png?raw=true" width="120" alt="Vibe-Trading Logo"/>
+  <img src="https://github.com/isaveall/Vibe-Trading/blob/main/assets/icon.png?raw=true" width="120" alt="Vibe-Trading Logo"/>
 </p>
 
 <h1 align="center">Vibe-Trading: Your Personal Trading Agent</h1>
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="#-quick-start"><img src="assets/pip-install.svg?raw=true" height="45" alt="pip install vibe-trading-ai"></a>
+  <a href="#-quick-start"><img src="https://github.com/isaveall/Vibe-Trading/blob/main/assets/pip-install.svg?raw=true" height="45" alt="pip install vibe-trading-ai"></a>
 </p>
 
 ---
@@ -140,7 +140,7 @@
 <table align="center" width="94%" style="width:94%; margin-left:auto; margin-right:auto;">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="assets/feature-self-improving-trading-agent.png?raw=true" height="130" alt="Self-improving trading agent"/><br>
+      <img src="https://github.com/isaveall/Vibe-Trading/blob/main/assets/feature-self-improving-trading-agent.png?raw=true" height="130" alt="Self-improving trading agent"/><br>
       <h3>🔍 Self-Improving Trading Agent</h3>
       <div align="left">
         • Natural-language market research<br>
@@ -149,7 +149,7 @@
       </div>
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="assets/feature-multi-agent-trading-teams.png?raw=true" height="130" alt="Multi-agent trading teams"/><br>
+      <img src="https://github.com/isaveall/Vibe-Trading/blob/main/assets/feature-multi-agent-trading-teams.png?raw=true" height="130" alt="Multi-agent trading teams"/><br>
       <h3>🐝 Multi-Agent Trading Teams</h3>
       <div align="left">
         • Investment, quant, crypto, and risk teams<br>
@@ -160,7 +160,7 @@
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="assets/feature-cross-market-data-backtesting.png?raw=true" height="130" alt="Cross-market data and backtesting"/><br>
+      <img src="https://github.com/isaveall/Vibe-Trading/blob/main/assets/feature-cross-market-data-backtesting.png?raw=true" height="130" alt="Cross-market data and backtesting"/><br>
       <h3>📊 Cross-Market Data & Backtesting</h3>
       <div align="left">
         • A/HK/US equities, crypto, futures, and forex<br>
@@ -169,7 +169,7 @@
       </div>
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="assets/feature-shadow-account.png?raw=true" height="130" alt="Shadow Account"/><br>
+      <img src="https://github.com/isaveall/Vibe-Trading/blob/main/assets/feature-shadow-account.png?raw=true" height="130" alt="Shadow Account"/><br>
       <h3>👥 Shadow Account</h3>
       <div align="left">
         • Broker-journal behavior diagnostics<br>
