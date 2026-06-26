@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="#-quick-start"><img src="https://github.com/isaveall/Vibe-Trading/blob/main/assets/pip-install.svg?raw=true" width="120" alt="pip install vibe-trading-ai"></a>
+  <a href="#-quick-start"><img src="https://github.com/isaveall/Vibe-Trading/blob/main/assets/pip-install.svg?raw=true" width="240" alt="pip install vibe-trading-ai"></a>
 </p>
 
 ---
